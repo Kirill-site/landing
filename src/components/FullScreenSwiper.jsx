@@ -15,7 +15,7 @@ SwiperCore.use([Navigation, Pagination, Keyboard]);
 function importAll(r) {
   return r.keys().map(r);
 }
-const images = importAll(require.context('../images/sliders', false, /\.(png|jpe?g|svg)$/));
+const images = importAll(require.context('../images/sliders', false, /\.(png|jpe?g|svg|webp)$/));
 
 
 

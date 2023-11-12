@@ -15,7 +15,7 @@ SwiperCore.use([Navigation, Pagination]);
 function importAll(r) {
   return r.keys().map(r);
 }
-const images = importAll(require.context('../images/sliders', false, /\.(png|jpe?g|svg)$/));
+const images = importAll(require.context('../images/sliders', false, /\.(png|jpe?g|svg|webp)$/));
 
 let descblocks = []
 Json.sites.forEach((site, index) => {
@@ -84,7 +84,7 @@ export default function MainSwiperPortfolio() {
   Json.sites.forEach((site, index) => {
     slides.push(
       <SwiperSlide className="portfolio-slide" key={index}>
-        <img className="img portfolio-slide__img" src={require(`../images/sliders/${site.url}_01.png`)} alt={site.url}/>
+        <img className="img portfolio-slide__img" src={require(`../images/sliders/${site.url}_01.webp`)} alt={site.url}/>
       </SwiperSlide>
     );
   });
