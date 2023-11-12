@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/landing/static/css/main.644789ff.css",
-    "main.js": "/landing/static/js/main.38a44507.js",
-    "static/media/skorodumov.net_01.png": "/landing/static/media/skorodumov.net_01.23bdd961594c5550ad89.png",
-    "static/media/skorodumov.net_05.png": "/landing/static/media/skorodumov.net_05.bdbf57b3e384a02c5c30.png",
-    "static/media/labfi.io_sizes.png": "/landing/static/media/labfi.io_sizes.202f9e17b326b1b21e93.png",
-    "static/media/skorodumov.net_sizes.png": "/landing/static/media/skorodumov.net_sizes.202f9e17b326b1b21e93.png",
-    "static/media/skorodumov.net_04.png": "/landing/static/media/skorodumov.net_04.aa318db91197cda36d8e.png",
-    "static/media/labfi.io_01.png": "/landing/static/media/labfi.io_01.bb707c48b1ee764598ac.png",
-    "static/media/labfi.io_02.png": "/landing/static/media/labfi.io_02.bb707c48b1ee764598ac.png",
-    "static/media/labfi.io_03.png": "/landing/static/media/labfi.io_03.bb707c48b1ee764598ac.png",
-    "static/media/labfi.io_04.png": "/landing/static/media/labfi.io_04.bb707c48b1ee764598ac.png",
-    "static/media/labfi.io_05.png": "/landing/static/media/labfi.io_05.bb707c48b1ee764598ac.png",
-    "static/media/labfi.io_06.png": "/landing/static/media/labfi.io_06.bb707c48b1ee764598ac.png",
-    "static/media/skorodumov.net_03.png": "/landing/static/media/skorodumov.net_03.9c0d5da5c0bcdc3a73cf.png",
-    "static/media/skorodumov.net_02.png": "/landing/static/media/skorodumov.net_02.d7bd1fd92421ae8d93da.png",
+    "main.js": "/landing/static/js/main.ff9de053.js",
+    "static/media/skorodumov.net_sizes.webp": "/landing/static/media/skorodumov.net_sizes.6951a70b76bb1a8e49aa.webp",
+    "static/media/labfi.io_sizes.webp": "/landing/static/media/labfi.io_sizes.ac3a2d6252486d391897.webp",
+    "static/media/skorodumov.net_01.webp": "/landing/static/media/skorodumov.net_01.c58c71437600bb38fa6c.webp",
+    "static/media/labfi.io_01.webp": "/landing/static/media/labfi.io_01.eacc34b9dd1c3e6b84ac.webp",
+    "static/media/labfi.io_02.webp": "/landing/static/media/labfi.io_02.eacc34b9dd1c3e6b84ac.webp",
+    "static/media/labfi.io_03.webp": "/landing/static/media/labfi.io_03.eacc34b9dd1c3e6b84ac.webp",
+    "static/media/labfi.io_04.webp": "/landing/static/media/labfi.io_04.eacc34b9dd1c3e6b84ac.webp",
+    "static/media/labfi.io_05.webp": "/landing/static/media/labfi.io_05.eacc34b9dd1c3e6b84ac.webp",
+    "static/media/labfi.io_06.webp": "/landing/static/media/labfi.io_06.eacc34b9dd1c3e6b84ac.webp",
+    "static/media/skorodumov.net_03.webp": "/landing/static/media/skorodumov.net_03.cc459dff9021841dcf83.webp",
+    "static/media/skorodumov.net_04.webp": "/landing/static/media/skorodumov.net_04.fe62f0654a01f2ec9bc6.webp",
+    "static/media/skorodumov.net_02.webp": "/landing/static/media/skorodumov.net_02.2ada496c9d592fb1a7b8.webp",
+    "static/media/skorodumov.net_05.webp": "/landing/static/media/skorodumov.net_05.ac63df112471e6052a94.webp",
     "index.html": "/landing/index.html",
     "main.644789ff.css.map": "/landing/static/css/main.644789ff.css.map",
-    "main.38a44507.js.map": "/landing/static/js/main.38a44507.js.map"
+    "main.ff9de053.js.map": "/landing/static/js/main.ff9de053.js.map"
   },
   "entrypoints": [
     "static/css/main.644789ff.css",
-    "static/js/main.38a44507.js"
+    "static/js/main.ff9de053.js"
   ]
 }
