@@ -38,6 +38,7 @@ Json.sites.forEach((site, index) => {
           <a href={`http://${site.url}`} className="portfolio-descblock__link">{site.url}</a>
         </div>
       </div>
+      <p className="portfolio-descblock__bottom-title">Галерея</p>
       <div className="portfolio-descblock__bottom">
         <BottomSwiperPortfolio thisSiteIndex={index}/>
       </div>

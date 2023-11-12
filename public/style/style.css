@@ -444,7 +444,7 @@ span.swiper-pagination-bullet-active {
 .portfolio-descblock {
   width: 100%;
   position: relative;
-  height: 710px;
+  height: 740px;
 }
 .portfolio-descblock__container {
   height: 100%;
@@ -489,6 +489,15 @@ span.swiper-pagination-bullet-active {
   -o-object-fit: contain;
      object-fit: contain;
 }
+.portfolio-descblock__bottom-title {
+  color: #fff;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 127.273%;
+  letter-spacing: 11.22px;
+  text-transform: uppercase;
+}
 .portfolio-descblock__description {
   -ms-flex-negative: 1;
       flex-shrink: 1;
@@ -508,7 +517,7 @@ span.swiper-pagination-bullet-active {
   font-style: normal;
   font-weight: 600;
   line-height: 133%;
-  letter-spacing: 3.19px;
+  letter-spacing: 8.99px;
   text-transform: uppercase;
   max-width: 252px;
   min-height: 78px;
@@ -1005,7 +1014,7 @@ span.swiper-pagination-bullet-active {
   height: 53px;
 }
 .contact__text {
-  max-width: 650px;
+  max-width: 670px;
   color: #FFF;
   font-size: 24px;
   font-style: normal;
@@ -1027,7 +1036,11 @@ span.swiper-pagination-bullet-active {
   display: block;
   content: "";
   width: 100%;
-  height: 167px;
+  height: 267px;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(4, 4, 26, 0)), color-stop(50%, #00010C));
   background: linear-gradient(180deg, rgba(4, 4, 26, 0) 0%, #00010C 50%);
+}
+.footer__container {
+  position: relative;
+  background-color: red;
 }
